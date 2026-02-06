@@ -1,0 +1,14 @@
+{
+     "signal": {
+          "file": "https://github.com/computerintrusion/Merc-X/blob/main/Utilities/Modules/Signal.lua?raw=true",
+          "signature": ""
+     },
+     "enum": {
+          "file": "https://github.com/computerintrusion/Merc-X/blob/main/Utilities/Modules/Enum.lua?raw=true",
+          "signature": ""
+     },
+     "maid": {
+          "file": "https://github.com/computerintrusion/Merc-X/blob/main/Utilities/Modules/Maid.lua?raw=true",
+          "signature": ""
+     }
+}

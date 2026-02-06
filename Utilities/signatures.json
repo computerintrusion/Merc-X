@@ -1,14 +1,14 @@
 {
      "enum": {
           "signature": "d0b62df8ffa4aba921cced8f8a93959435cc5224",
-          "file":"https://github.com/computerintrusion/Merc-X/blob/main/Utilities/Modules/Enum.lua?raw=true"
+          "file": "https://github.com/computerintrusion/Merc-X/raw/refs/heads/main/Utilities/Modules/Enum.lua"
      },
      "maid": {
           "signature":"9559221c285d97a38e3da0be8425d86aeab97c73", 
-          "file":"https://github.com/computerintrusion/Merc-X/blob/main/Utilities/Modules/Maid.lua?raw=true"
+          "file": "https://github.com/computerintrusion/Merc-X/raw/refs/heads/main/Utilities/Modules/Maid.lua"
      },
      "signal": {
           "signature":"80eadc47146dffcd69f1df24aaab289962499b6a",
-          "file":"https://github.com/computerintrusion/Merc-X/blob/main/Utilities/Modules/Signal.lua?raw=true"
+          "file": "https://github.com/computerintrusion/Merc-X/raw/refs/heads/main/Utilities/Modules/Signal.lua"
      }
 }

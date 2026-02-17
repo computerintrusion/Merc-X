@@ -1681,7 +1681,6 @@
             local cfg = {
                 name = options.name or nil,
                 suffix = options.suffix or "",
-                version = options.version or "",
                 flag = options.flag or library:next_flag(),
                 callback = options.callback or function() end, 
                 info = options.info or nil; 
